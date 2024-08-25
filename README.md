@@ -1,4 +1,3 @@
-p
 This repo should follow the structure of the user's home folder.
 
 # Sources
