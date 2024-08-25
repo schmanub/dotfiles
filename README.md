@@ -1,4 +1,4 @@
-
+p
 This repo should follow the structure of the user's home folder.
 
 # Sources
@@ -20,9 +20,11 @@ ttf-meslo-nerd-font-powerlevel10k
 ttf-roboto
 noto-fonts-emoji
 # Necessary Packages
+hypridle
+hyprpaper
 nwg-look
 wofi
-swaylock
+gtklock
 sddm
 sof-firmware
 waybar
